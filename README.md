@@ -1,2 +1,2 @@
 # dqlabpython
-Halo, disini saya membagikan apa yang sudah saya pelajari
+Halo, disini saya membagikan apa saja yang sudah saya pelajari di bahasa pemrograman python
