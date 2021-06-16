@@ -14,4 +14,5 @@ plt.title('Persebaran jumlah penduduk laki-laki di Jakarta Pusat', fontsize='15.
 plt.xlabel('Kelurahan di Jakarta Pusat', color='yellow')
 plt.ylabel('Jumlah penduduk laki-laki', color='red')
 plt.grid(color='darkgray', linestyle=':', linewidth=0.5)
+plt.savefig('jakartapusat.png')
 plt.show()
