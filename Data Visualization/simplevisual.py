@@ -1,3 +1,4 @@
+"""" Membuat visualisasi sederhana untuk mengetahui jumlah terbanyak dan terkecil penduduk laki-laki di Jakarta Pusat berdasarkan keluharannya"""
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -14,4 +15,3 @@ plt.ylabel('Jumlah penduduk laki-laki', color='red')
 plt.grid(color='darkgray', linestyle=':', linewidth=0.5)
 plt.savefig('jakartapusat.png')
 plt.show()
-
