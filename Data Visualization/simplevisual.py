@@ -14,3 +14,4 @@ plt.ylabel('Jumlah penduduk laki-laki', color='red')
 plt.grid(color='darkgray', linestyle=':', linewidth=0.5)
 plt.savefig('jakartapusat.png')
 plt.show()
+
