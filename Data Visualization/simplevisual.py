@@ -1,4 +1,4 @@
-"""" Membuat visualisasi sederhana untuk mengetahui jumlah terbanyak dan terkecil penduduk laki-laki di Jakarta Pusat berdasarkan keluharannya"""
+""""Membuat visualisasi sederhana untuk mengetahui jumlah terbanyak dan terkecil penduduk laki-laki di Jakarta Pusat berdasarkan keluharannya"""
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
